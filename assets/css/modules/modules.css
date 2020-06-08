@@ -296,20 +296,20 @@ button,
     }
 
     #main > section.one {
-      background-color: #81918E;
+      background-color: #0DAD8D;
       background-image: url("../../images/banner.jpg");
     }
 
     #main > section.two {
-      background-color: #f5fafa;
+      background-color: #8DD8CC;
     }
 
     #main > section.three {
-      background-color: #ecf1f1;
+      background-color: #30BFBF;
     }
 
     #main > section.four {
-      background-color: #e8edec;
+      background-color: #0C98BA;
     }
 
 /* Wide */
